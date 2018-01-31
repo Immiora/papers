@@ -1,4 +1,4 @@
-# Papers
+<h2> Papers <h2>
 <h3>Convolutional neural networks</h3>
 [test](google.com)
 [Recent Advances in Convolutional Neural Networks](https://arxiv.org/pdf/1512.07108.pdf)
@@ -33,9 +33,9 @@
 [Deep neural networks: a new framework for modelling biological vision and brain information processing](https://www.biorxiv.org/content/biorxiv/early/2015/10/26/029876.full.pdf)
 [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/biorxiv/early/2017/05/04/133504.full.pdf)
 
-# Github
+<h2> Github </h2>
 
 
-# Blog
+<h2> Blog </h2>
 [Pruning deep neural networks to make them fast and small](https://jacobgil.github.io/deeplearning/pruning-deep-learning)
 [NstepLSTM in Chainer](https://qiita.com/aonotas/items/8e38693fb517e4e90535)
