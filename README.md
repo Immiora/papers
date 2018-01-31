@@ -1,24 +1,16 @@
 # Papers
 
-<h3>Convolutional neural networks</h3>
+<h3>Convolutional neural networks</h3>  
+[Recent Advances in Convolutional Neural Networks](https://arxiv.org/pdf/1512.07108.pdf)  
+[The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/pdf/1707.04585.pdf)  
 
-[Recent Advances in Convolutional Neural Networks](https://arxiv.org/pdf/1512.07108.pdf)
-
-[The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/pdf/1707.04585.pdf)
-
-<h3>Feature visualization</h3>
-
-[Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)
-
-[Visualizing Higher-Layer Features of a Deep Network](https://www.researchgate.net/profile/Aaron_Courville/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network/links/53ff82b00cf24c81027da530.pdf)
-
-[Understanding Neural Networks Through Deep Visualization](https://arxiv.org/pdf/1506.06579.pdf)
-
-[Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/pdf/1312.6034.pdf)
-
-[Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150.pdf)
-
-[Time Series Classification from Scratch with Deep Neural Networks: A Strong Baseline](https://arxiv.org/pdf/1611.06455.pdf)
+<h3>Feature visualization</h3>  
+[Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)  
+[Visualizing Higher-Layer Features of a Deep Network](https://www.researchgate.net/profile/Aaron_Courville/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network/links/53ff82b00cf24c81027da530.pdf)  
+[Understanding Neural Networks Through Deep Visualization](https://arxiv.org/pdf/1506.06579.pdf)  
+[Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/pdf/1312.6034.pdf)  
+[Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150.pdf)  
+[Time Series Classification from Scratch with Deep Neural Networks: A Strong Baseline](https://arxiv.org/pdf/1611.06455.pdf)  
 
 <h3>Recurrent neural networks</h3>
 
