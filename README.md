@@ -26,7 +26,7 @@
 - [ ] [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/pdf/1506.02626v3.pdf)
 
 ## Deep learning in neuroscience
-###<i>Applications</i>
+<i>Applications</i>
 
 - [ ] [Using goal-driven deep learning models to understand sensory cortex](https://www.nature.com/articles/nn.4244)
 - [ ] [Deep learning for neuroimaging: a validation study](https://www.frontiersin.org/articles/10.3389/fnins.2014.00229/full)
@@ -34,7 +34,7 @@
 - [ ] [Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream](http://www.jneurosci.org/content/jneuro/35/27/10005.full.pdf)
 - [ ] [Brains on Beats](http://papers.nips.cc/paper/6222-brains-on-beats.pdf)
 
-###<i>Reviews</i>
+<i>Reviews</i>
 
 - [ ] [Toward an Integration of Deep Learning and Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)
 - [ ] [Deep neural networks: a new framework for modelling biological vision and brain information processing](https://www.biorxiv.org/content/biorxiv/early/2015/10/26/029876.full.pdf)
