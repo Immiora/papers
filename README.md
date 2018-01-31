@@ -8,7 +8,7 @@
 ## Feature visualization
 
 - [ ] [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)  
-- [ ] [Visualizing Higher-Layer Features of a Deep Network](https://www.researchgate.net/profile/Aaron_Courville/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network/links/53ff82b00cf24c81027da530.pdf)  
+- [ ] [Visualizing Higher-layer Features of a Deep Network](https://www.researchgate.net/profile/Aaron_Courville/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network/links/53ff82b00cf24c81027da530.pdf)  
 - [ ] [Understanding Neural Networks Through Deep Visualization](https://arxiv.org/pdf/1506.06579.pdf)  
 - [ ] [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/pdf/1312.6034.pdf)
 - [ ] [Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150.pdf)  
