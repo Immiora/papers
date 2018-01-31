@@ -22,22 +22,22 @@
 
 ## Neural network pruning
 
-- [ ] [Optimal brain damage](http://yann.lecun.com/exdb/publis/pdf/lecun-90b.pdf)
+- [ ] [Optimal Brain Damage](http://yann.lecun.com/exdb/publis/pdf/lecun-90b.pdf)
 - [ ] [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/pdf/1506.02626v3.pdf)
 
 ## Deep learning in neuroscience
 <i>Applications</i>
 
-- [ ] [Using goal-driven deep learning models to understand sensory cortex](https://www.nature.com/articles/nn.4244)
-- [ ] [Deep learning for neuroimaging: a validation study](https://www.frontiersin.org/articles/10.3389/fnins.2014.00229/full)
-- [ ] [Deep Supervised, but Not Unsupervised, Models May Explain IT Cortical Representation](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915)
+- [ ] [Using Goal-driven Deep Learning Models to Understand Sensory Cortex](https://www.nature.com/articles/nn.4244)
+- [ ] [Deep Learning for Neuroimaging: a Validation Study](https://www.frontiersin.org/articles/10.3389/fnins.2014.00229/full)
+- [ ] [Deep Supervised, but not Unsupervised, Models may Explain IT Cortical Representation](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915)
 - [ ] [Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream](http://www.jneurosci.org/content/jneuro/35/27/10005.full.pdf)
 - [ ] [Brains on Beats](http://papers.nips.cc/paper/6222-brains-on-beats.pdf)
 
 <i>Reviews</i>
 
 - [ ] [Toward an Integration of Deep Learning and Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)
-- [ ] [Deep neural networks: a new framework for modelling biological vision and brain information processing](https://www.biorxiv.org/content/biorxiv/early/2015/10/26/029876.full.pdf)
+- [ ] [Deep Neural Networks: a New Framework for Modelling Biological Vision and Brain Information Processing](https://www.biorxiv.org/content/biorxiv/early/2015/10/26/029876.full.pdf)
 - [ ] [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/biorxiv/early/2017/05/04/133504.full.pdf)
 
 # Github
@@ -45,6 +45,6 @@
 
 # Blog
 
-- [ ] [Pruning deep neural networks to make them fast and small](https://jacobgil.github.io/deeplearning/pruning-deep-learning)
+- [ ] [Pruning Deep Neural Networks to Make them Fast and Small](https://jacobgil.github.io/deeplearning/pruning-deep-learning)
 - [ ] [NstepLSTM in Chainer](https://qiita.com/aonotas/items/8e38693fb517e4e90535)
 
