@@ -1,7 +1,10 @@
 <h3>Convolutional neural networks</h3>
 [test](google.com)
+
 [Recent Advances in Convolutional Neural Networks](https://arxiv.org/pdf/1512.07108.pdf)
+
 [The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/pdf/1707.04585.pdf)
+
 <h3>Feature visualization</h3>
 [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)
 [Visualizing Higher-Layer Features of a Deep Network](https://www.researchgate.net/profile/Aaron_Courville/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network/links/53ff82b00cf24c81027da530.pdf)
