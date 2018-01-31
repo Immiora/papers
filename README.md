@@ -1,7 +1,6 @@
 # Papers
 <h3>Convolutional neural networks</h3>
-[I'm an inline-style link](https://www.google.com)
-[Recent Advances in Convolutional Neural Networks]: https://arxiv.org/pdf/1512.07108.pdf
+[Recent Advances in Convolutional Neural Networks](https://arxiv.org/pdf/1512.07108.pdf)
 [The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/pdf/1707.04585.pdf)
 
 <h3>Feature visualization</h3>
@@ -31,8 +30,7 @@
 
 <h4><i>Reviews</i></h4>
 [Toward an Integration of Deep Learning and Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)
-[Deep neural networks: a new framework for modelling
-biological vision and brain information processing](https://www.biorxiv.org/content/biorxiv/early/2015/10/26/029876.full.pdf)
+[Deep neural networks: a new framework for modelling biological vision and brain information processing](https://www.biorxiv.org/content/biorxiv/early/2015/10/26/029876.full.pdf)
 [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/biorxiv/early/2017/05/04/133504.full.pdf)
 
 # Github
