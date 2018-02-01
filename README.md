@@ -46,6 +46,9 @@
 - [ ] [Deep Neural Networks: a New Framework for Modelling Biological Vision and Brain Information Processing](https://www.biorxiv.org/content/biorxiv/early/2015/10/26/029876.full.pdf)
 - [ ] [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/biorxiv/early/2017/05/04/133504.full.pdf)
 
+## Brain-computer interfaces
+- [ ] [Sequence Transfer Learning for Neural Decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf)
+
 ## Machine learning
 - [ ] [Gene Selection for Cancer Classification using Support Vector Machines](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.9598&rep=rep1&type=pdf)
 
