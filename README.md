@@ -5,6 +5,17 @@
 - [ ] [Recent Advances in Convolutional Neural Networks](https://arxiv.org/pdf/1512.07108.pdf)
 - [ ] [The Reversible Residual Network: Backpropagation without Storing Activations](https://arxiv.org/pdf/1707.04585.pdf)  
 
+## Recurrent neural networks
+- [ ] [Supervised Sequence Labelling with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/preprint.pdf)
+- [ ] [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](https://mediatum.ub.tum.de/doc/1292048/file.pdf)
+- [ ] [Deep Fragment Embeddings for Bidirectional Image Sentence Mapping](http://papers.nips.cc/paper/5281-deep-fragment-embeddings-for-bidirectional-image-sentence-mapping.pdf)
+
+## Recurrent convolutional neural networks
+
+- [ ] [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/pdf/1507.05717.pdf)
+- [ ] [Recurrent Convolutional Neural Network for Object Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2B_004.pdf)
+- [ ] [Inception Recurrent Convolutional Neural Network for Object Recognition](https://arxiv.org/pdf/1704.07709.pdf)
+
 ## Feature visualization
 
 - [ ] [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)  
@@ -12,13 +23,8 @@
 - [ ] [Understanding Neural Networks Through Deep Visualization](https://arxiv.org/pdf/1506.06579.pdf)  
 - [ ] [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/pdf/1312.6034.pdf)
 - [ ] [Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150.pdf)  
-- [ ] [Time Series Classification from Scratch with Deep Neural Networks: A Strong Baseline](https://arxiv.org/pdf/1611.06455.pdf)  
-
-## Recurrent neural networks
-
-- [ ] [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/pdf/1507.05717.pdf)
-- [ ] [Recurrent Convolutional Neural Network for Object Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2B_004.pdf)
-- [ ] [Inception Recurrent Convolutional Neural Network for Object Recognition](https://arxiv.org/pdf/1704.07709.pdf)
+- [ ] [Time Series Classification from Scratch with Deep Neural Networks: A Strong Baseline](https://arxiv.org/pdf/1611.06455.pdf)
+- [ ] [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf)
 
 ## Neural network pruning
 
