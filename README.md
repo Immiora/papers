@@ -55,6 +55,7 @@
 
 # Github
 
+- [ ] [Google Brain Magenta](https://github.com/tensorflow/magenta)
 - [ ] [Detectron Facebook](https://github.com/facebookresearch/Detectron)
 - [ ] [Fasttext Facebook](https://github.com/facebookresearch/fastText)
 - [ ] [Netscope](https://github.com/ethereon/netscope)
@@ -62,6 +63,7 @@
 
 # Blog
 
+- [ ] [Tuning Recurrent Neural Networks with Reinforcement Learning](https://magenta.tensorflow.org/2016/11/09/tuning-recurrent-networks-with-reinforcement-learning)
 - [ ] [Pruning Deep Neural Networks to Make them Fast and Small](https://jacobgil.github.io/deeplearning/pruning-deep-learning)
 - [ ] [NstepLSTM in Chainer](https://qiita.com/aonotas/items/8e38693fb517e4e90535)
 
