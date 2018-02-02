@@ -55,6 +55,9 @@
 
 # Github
 
+- [ ] [Detectron Facebook](https://github.com/facebookresearch/Detectron)
+- [ ] [Fasttext Facebook](https://github.com/facebookresearch/fastText)
+- [ ] [Netscope](https://github.com/ethereon/netscope)
 - [ ] [Image Caption Generation with Chainer](https://github.com/apple2373/chainer-caption)
 
 # Blog
