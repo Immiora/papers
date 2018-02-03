@@ -4,6 +4,7 @@
 
 - [ ] [Recent Advances in Convolutional Neural Networks](https://arxiv.org/pdf/1512.07108.pdf)
 - [ ] [The Reversible Residual Network: Backpropagation without Storing Activations](https://arxiv.org/pdf/1707.04585.pdf)  
+- [ ] [Deep Networks with Stochastic Depth](https://arxiv.org/pdf/1603.09382.pdf)
 
 ## Recurrent neural networks
 - [ ] [Supervised Sequence Labelling with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/preprint.pdf)
