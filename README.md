@@ -51,6 +51,7 @@
 - [ ] [Sequence Transfer Learning for Neural Decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf)
 
 ## Machine learning
+- [ ] [Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 - [ ] [Gene Selection for Cancer Classification using Support Vector Machines](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.9598&rep=rep1&type=pdf)
 
 
