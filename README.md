@@ -49,6 +49,7 @@
 
 ## Brain-computer interfaces
 - [ ] [Sequence Transfer Learning for Neural Decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf)
+- [ ] [A Survey of Signal Processing Algorithms in Brain–computer Interfaces based on Electrical Brain Signals](https://pdfs.semanticscholar.org/b2ec/92cbf4a04637181c8598adfffbbbeb648ddf.pdf)
 
 ## Machine learning
 - [ ] [Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
