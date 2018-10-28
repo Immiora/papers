@@ -35,6 +35,7 @@
 ## Deep learning in neuroscience
 <i>Applications</i>
 
+- [ ] [A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy](https://www.sciencedirect.com/science/article/pii/S0896627318302502#sec4)
 - [ ] [Activations of Deep Convolutional Neural Network are Aligned with Gamma Band Activity of Human Visual Cortex](https://www.biorxiv.org/content/biorxiv/early/2018/02/09/133694.full.pdf)
 - [ ] [Using Goal-driven Deep Learning Models to Understand Sensory Cortex](https://www.nature.com/articles/nn.4244)
 - [ ] [Deep Learning for Neuroimaging: a Validation Study](https://www.frontiersin.org/articles/10.3389/fnins.2014.00229/full)
