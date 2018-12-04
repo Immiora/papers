@@ -50,6 +50,7 @@
 - [ ] [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/biorxiv/early/2017/05/04/133504.full.pdf)
 
 ## Brain-computer interfaces
+- [ ] [Speech Synthesis from ECoG using Densely Connected 3D Convolutional Neural Networks](https://www.biorxiv.org/content/early/2018/11/27/478644?ct)
 - [ ] [Sequence Transfer Learning for Neural Decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf)
 - [ ] [A Survey of Signal Processing Algorithms in Brain–computer Interfaces based on Electrical Brain Signals](https://pdfs.semanticscholar.org/b2ec/92cbf4a04637181c8598adfffbbbeb648ddf.pdf)
 
