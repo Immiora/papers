@@ -35,13 +35,18 @@
 ## Deep learning in neuroscience
 <i>Applications</i>
 
-- [ ] [A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy](https://www.sciencedirect.com/science/article/pii/S0896627318302502#sec4)
-- [ ] [Activations of Deep Convolutional Neural Network are Aligned with Gamma Band Activity of Human Visual Cortex](https://www.biorxiv.org/content/biorxiv/early/2018/02/09/133694.full.pdf)
-- [ ] [Using Goal-driven Deep Learning Models to Understand Sensory Cortex](https://www.nature.com/articles/nn.4244)
-- [ ] [Deep Learning for Neuroimaging: a Validation Study](https://www.frontiersin.org/articles/10.3389/fnins.2014.00229/full)
-- [ ] [Deep Supervised, but not Unsupervised, Models may Explain IT Cortical Representation](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915)
-- [ ] [Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream](http://www.jneurosci.org/content/jneuro/35/27/10005.full.pdf)
-- [ ] [Brains on Beats](http://papers.nips.cc/paper/6222-brains-on-beats.pdf)
+- [ ] [A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy](https://www.sciencedirect.com/science/article/pii/S0896627318302502#sec4), 2018
+- [ ] [Activations of Deep Convolutional Neural Network are Aligned with Gamma Band Activity of Human Visual Cortex](https://www.biorxiv.org/content/biorxiv/early/2018/02/09/133694.full.pdf), 2018
+- [ ] [Incorporating Context into Language Encoding Models for fMRI](https://www.biorxiv.org/content/early/2018/11/21/327601.full.pdf), 2018
+- [ ] [Generative adversarial networks for reconstructing natural images from brain activity](https://www.sciencedirect.com/science/article/pii/S105381191830658X), 2018
+- [ ] [Convolutional neural network-based encoding and decoding of visual object recognition in space and time](https://www.sciencedirect.com/science/article/pii/S1053811917305864?via%3Dihub), 2018
+- [ ] [Modeling the Dynamics of Human Brain Activity with Recurrent Neural Networks](https://www.frontiersin.org/articles/10.3389/fncom.2017.00007/full), 2017
+- [ ] [Brains on Beats](http://papers.nips.cc/paper/6222-brains-on-beats.pdf), 2016
+- [ ] [Using Goal-driven Deep Learning Models to Understand Sensory Cortex](https://www.nature.com/articles/nn.4244), 2016
+- [ ] [Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream](http://www.jneurosci.org/content/jneuro/35/27/10005.full.pdf), 2015
+- [ ] [Deep Learning for Neuroimaging: a Validation Study](https://www.frontiersin.org/articles/10.3389/fnins.2014.00229/full), 2014
+- [ ] [Deep Supervised, but not Unsupervised, Models may Explain IT Cortical Representation](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915), 2014
+
 
 <i>Reviews</i>
 
