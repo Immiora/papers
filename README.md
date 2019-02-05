@@ -35,6 +35,7 @@
 ## Deep learning in neuroscience
 <i>Applications</i>
 
+- [ ] [Towards reconstructing intelligible speech from the human auditory cortex](https://www.nature.com/articles/s41598-018-37359-z), *Scientific reports*, 2019
 - [ ] [A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy](https://www.sciencedirect.com/science/article/pii/S0896627318302502#sec4), *Neuron*, 2018
 - [ ] [Activations of Deep Convolutional Neural Network are Aligned with Gamma Band Activity of Human Visual Cortex](https://www.biorxiv.org/content/biorxiv/early/2018/02/09/133694.full.pdf), *bioRxiv*, 2018
 - [ ] [Incorporating Context into Language Encoding Models for fMRI](https://www.biorxiv.org/content/early/2018/11/21/327601.full.pdf), *bioRxiv*, 2018
@@ -55,6 +56,7 @@
 - [ ] [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/biorxiv/early/2017/05/04/133504.full.pdf)
 
 ## Brain-computer interfaces
+
 - [ ] [Speech Synthesis from ECoG using Densely Connected 3D Convolutional Neural Networks](https://www.biorxiv.org/content/early/2018/11/27/478644?ct)
 - [ ] [Sequence Transfer Learning for Neural Decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf)
 - [ ] [A Survey of Signal Processing Algorithms in Brain–computer Interfaces based on Electrical Brain Signals](https://pdfs.semanticscholar.org/b2ec/92cbf4a04637181c8598adfffbbbeb648ddf.pdf)
