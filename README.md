@@ -35,6 +35,7 @@
 ## Deep learning in neuroscience
 <i>Applications</i>
 
+- [ ] [Interpretation of Convolutional Neural Networks for Speech Spectrogram Regression from Intracranial Recordings](https://www.sciencedirect.com/science/article/pii/S092523121930133X), *Neurocomputing*, 2019
 - [ ] [Towards reconstructing intelligible speech from the human auditory cortex](https://www.nature.com/articles/s41598-018-37359-z), *Scientific reports*, 2019
 - [ ] [A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy](https://www.sciencedirect.com/science/article/pii/S0896627318302502#sec4), *Neuron*, 2018
 - [ ] [Activations of Deep Convolutional Neural Network are Aligned with Gamma Band Activity of Human Visual Cortex](https://www.biorxiv.org/content/biorxiv/early/2018/02/09/133694.full.pdf), *bioRxiv*, 2018
