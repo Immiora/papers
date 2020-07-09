@@ -21,7 +21,7 @@ Collection of papers in neuroscience with a focus on using artificial neural net
 <i>Vision</i>
 - [ ] [Recurrence is required to capture the representational dynamics of the human visual system](https://www.pnas.org/content/116/43/21854.short), *PNAS*, 2019
 - [ ] [Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior](https://www.nature.com/articles/s41593-019-0392-5), *Nature Neuroscience*, 2019
-- [ ] [Activations of deep convolutional neural network are aligned with gamma band activity of human visual cortex](https://www.biorxiv.org/content/biorxiv/early/2018/02/09/133694.full.pdf), *bioRxiv*, 2018
+- [ ] [Activations of deep convolutional neural networks are aligned with gamma band activity of human visual cortex](https://www.nature.com/articles/s42003-018-0110-y), *Nature Communications Biology*, 2018
 - [ ] [Generative adversarial networks for reconstructing natural images from brain activity](https://www.sciencedirect.com/science/article/pii/S105381191830658X), *Neuroimage*, 2018
 - [ ] [Convolutional neural network-based encoding and decoding of visual object recognition in space and time](https://www.sciencedirect.com/science/article/pii/S1053811917305864?via%3Dihub), *Neuroimage*, 2018
 - [ ] [Modeling the dynamics of human brain activity with recurrent neural networks](https://www.frontiersin.org/articles/10.3389/fncom.2017.00007/full), *Frontiers in Computational Neuroscience*, 2017
