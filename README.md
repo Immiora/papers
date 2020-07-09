@@ -34,6 +34,7 @@ Collection of papers in neuroscience with a focus on using artificial neural net
 
 <i>Semantics</i>
 - [ ] [Connecting concepts in the brain by mapping cortical representations of semantic relations](https://www.nature.com/articles/s41467-020-15804-w), *Nature Communications*, 2020
+- [ ] [The hierarchical cortical organization of human speech processing](https://www.jneurosci.org/content/37/27/6539.full), *Journal of Neuroscience*, 2017
 - [ ] [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637), *Nature*, 2016
 - [ ] [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://www.sciencedirect.com/science/article/pii/S0896627312009348), *Neuron*, 2012
 
