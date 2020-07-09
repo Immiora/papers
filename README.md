@@ -12,6 +12,7 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 
 <i>Auditory processing & speech perception</i>
 - [ ] [Brain-optimized extraction of complex sound features that drive continuous auditory perception](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007992), *PLOS Computational Biology*, 2020
+- [ ] [Estimating and interpreting nonlinear receptive field of sensory neural responses with deep neural network models](https://elifesciences.org/articles/53445), *Elife*, 2020
 - [ ] [Towards reconstructing intelligible speech from the human auditory cortex](https://www.nature.com/articles/s41598-018-37359-z), *Scientific reports*, 2019
 - [ ] [Interpretation of convolutional neural networks for speech spectrogram regression from intracranial recordings](https://www.sciencedirect.com/science/article/pii/S092523121930133X), *Neurocomputing*, 2019
 - [ ] [A task-optimized neural network replicates human auditory behavior, predicts brain responses, and reveals a cortical processing hierarchy](https://www.sciencedirect.com/science/article/pii/S0896627318302502#sec4), *Neuron*, 2018
