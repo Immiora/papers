@@ -3,7 +3,7 @@
 ## Deep learning in neuroscience
 
 <i>Language</i>
-- [ ] [Artificial Neural Networks Accurately Predict Language Processing in the Brain] (https://www.biorxiv.org/content/10.1101/2020.06.26.174482v1), *bioRxiv*, 2020
+- [ ] [Artificial Neural Networks Accurately Predict Language Processing in the Brain](https://www.biorxiv.org/content/10.1101/2020.06.26.174482v1), *bioRxiv*, 2020
 - [ ] [Incorporating Context into Language Encoding Models for fMRI](https://www.biorxiv.org/content/early/2018/11/21/327601.full.pdf), *bioRxiv*, 2018
 
 
