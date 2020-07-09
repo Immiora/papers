@@ -41,7 +41,9 @@ Collection of papers in neuroscience with a focus on using artificial neural net
 
 ## Brain-computer interfaces
 - [ ] [Machine translation of cortical activity to text with an encoder–decoder framework](https://www.nature.com/articles/s41593-020-0608-8), *Nature Neuroscience*, 2020
+- [ ] [High-performance brain-to-text communication via imagined handwriting](https://www.biorxiv.org/content/10.1101/2020.07.01.183384v1), *bioRxive*, 2020
 - [ ] [Speech synthesis from neural decoding of spoken sentences](https://www.nature.com/articles/s41586-019-1119-1), *Nature*, 2019
+- [ ] [Neural ensemble dynamics in dorsal motor cortex during speech in people with paralysis](https://elifesciences.org/articles/46015), *Elife*, 2019
 - [ ] [Speech Synthesis from ECoG using Densely Connected 3D Convolutional Neural Networks](https://www.biorxiv.org/content/early/2018/11/27/478644?ct), *bioRxiv*, 2018
 - [ ] [Sequence Transfer Learning for Neural Decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf), *bioRxiv*, 2017
 - [ ] [Brain-to-text: decoding spoken phrases from phone representations in the brain](https://www.frontiersin.org/articles/10.3389/fnins.2015.00217/full), *Frontiers in Neuroscience*, 2015
