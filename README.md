@@ -19,6 +19,7 @@ Collection of papers in neuroscience with a focus on using artificial neural net
 
 
 <i>Vision</i>
+- [ ] [End-to-end neural system identification with neural information flow](https://www.biorxiv.org/content/10.1101/553255v3.abstract), *bioRxiv*, 2019
 - [ ] [Recurrence is required to capture the representational dynamics of the human visual system](https://www.pnas.org/content/116/43/21854.short), *PNAS*, 2019
 - [ ] [Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior](https://www.nature.com/articles/s41593-019-0392-5), *Nature Neuroscience*, 2019
 - [ ] [Activations of deep convolutional neural networks are aligned with gamma band activity of human visual cortex](https://www.nature.com/articles/s42003-018-0110-y), *Nature Communications Biology*, 2018
@@ -38,6 +39,7 @@ Collection of papers in neuroscience with a focus on using artificial neural net
 
 
 <i>Reviews</i>
+- [ ] [A critique of pure learning and what artificial neural networks can learn from animal brains](https://www.nature.com/articles/s41467-019-11786-6), *Nature Communications*, 2019
 - [ ] [Neural network models and deep learning](https://www.sciencedirect.com/science/article/pii/S0960982219302040), *Current Biology*, 2019
 - [ ] [A deep learning framework for neuroscience](https://www.nature.com/articles/s41593-019-0520-2), *Nature Neuroscience*, 2019
 - [ ] [Deep neural networks in computational neuroscience](https://www.biorxiv.org/content/biorxiv/early/2017/05/04/133504.full.pdf), *bioRxiv*, 2017
@@ -50,9 +52,13 @@ Collection of papers in neuroscience with a focus on using artificial neural net
 - [ ] [High-performance brain-to-text communication via imagined handwriting](https://www.biorxiv.org/content/10.1101/2020.07.01.183384v1), *bioRxive*, 2020
 - [ ] [Speech synthesis from neural decoding of spoken sentences](https://www.nature.com/articles/s41586-019-1119-1), *Nature*, 2019
 - [ ] [Neural ensemble dynamics in dorsal motor cortex during speech in people with paralysis](https://elifesciences.org/articles/46015), *Elife*, 2019
+- [ ] [Generating natural, intelligible speech from brain activity in motor, premotor, and inferior frontal cortices](https://www.frontiersin.org/articles/10.3389/fnins.2019.01267/full), *Frontiers in Neuroscience*, 2019
+- [ ] [Decoding inner speech using electrocorticography: progress and challenges toward a speech prosthesis](https://www.frontiersin.org/articles/10.3389/fnins.2018.00422/full), *Frontiers in Neuroscience*, 2018
 - [ ] [Speech Synthesis from ECoG using densely connected 3D convolutional neural networks](https://www.biorxiv.org/content/early/2018/11/27/478644?ct), *bioRxiv*, 2018
 - [ ] [Sequence transfer learning for neural decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf), *bioRxiv*, 2017
+- [ ] [Neural speech recognition: continuous phoneme decoding using spatiotemporal representations of human cortical activity](https://iopscience.iop.org/article/10.1088/1741-2560/13/5/056004), *Journal of Neural Engineering*, 2016
 - [ ] [Brain-to-text: decoding spoken phrases from phone representations in the brain](https://www.frontiersin.org/articles/10.3389/fnins.2015.00217/full), *Frontiers in Neuroscience*, 2015
+- [ ] [Reconstructing speech from human auditory cortex](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001251), *PLOS Biology*, 2012
 - [ ] [A survey of signal processing algorithms in brain–computer interfaces based on electrical brain signals](https://iopscience.iop.org/article/10.1088/1741-2560/4/2/R03), *Journal of Neural Engineering*, 2007
 
 
