@@ -54,7 +54,7 @@ Collection of papers in neuroscience with a focus on using artificial neural net
 - [ ] [Neural ensemble dynamics in dorsal motor cortex during speech in people with paralysis](https://elifesciences.org/articles/46015), *Elife*, 2019
 - [ ] [Generating natural, intelligible speech from brain activity in motor, premotor, and inferior frontal cortices](https://www.frontiersin.org/articles/10.3389/fnins.2019.01267/full), *Frontiers in Neuroscience*, 2019
 - [ ] [Decoding inner speech using electrocorticography: progress and challenges toward a speech prosthesis](https://www.frontiersin.org/articles/10.3389/fnins.2018.00422/full), *Frontiers in Neuroscience*, 2018
-- [ ] [Speech Synthesis from ECoG using densely connected 3D convolutional neural networks](https://www.biorxiv.org/content/early/2018/11/27/478644?ct), *bioRxiv*, 2018
+- [ ] [Speech synthesis from ECoG using densely connected 3D convolutional neural networks](https://www.biorxiv.org/content/early/2018/11/27/478644?ct), *bioRxiv*, 2018
 - [ ] [Sequence transfer learning for neural decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf), *bioRxiv*, 2017
 - [ ] [Neural speech recognition: continuous phoneme decoding using spatiotemporal representations of human cortical activity](https://iopscience.iop.org/article/10.1088/1741-2560/13/5/056004), *Journal of Neural Engineering*, 2016
 - [ ] [Brain-to-text: decoding spoken phrases from phone representations in the brain](https://www.frontiersin.org/articles/10.3389/fnins.2015.00217/full), *Frontiers in Neuroscience*, 2015
