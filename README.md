@@ -1,8 +1,8 @@
 # Papers
 
-Collection of papers in neuroscience with a focus on using artificial neural networks to model brain data.  
+Collection of papers in cognitive neuroscience with a focus on using artificial neural networks to model brain data.  
 
-## Deep learning in neuroscience
+## Deep learning in cognitive neuroscience
 
 <i>Language</i>
 - [ ] [Artificial neural networks accurately predict language processing in the brain](https://www.biorxiv.org/content/10.1101/2020.06.26.174482v1), *bioRxiv*, 2020
