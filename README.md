@@ -7,36 +7,36 @@ Collection of papers in neuroscience with a focus on using artificial neural net
 <i>Language</i>
 - [ ] [Artificial neural networks accurately predict language processing in the brain](https://www.biorxiv.org/content/10.1101/2020.06.26.174482v1), *bioRxiv*, 2020
 - [ ] [Language processing in brains and deep neural networks: computational convergence and its limits](https://www.biorxiv.org/content/10.1101/2020.07.03.186288v1), *bioRxiv*, 2020
-- [ ] [Incorporating Context into Language Encoding Models for fMRI](https://www.biorxiv.org/content/early/2018/11/21/327601.full.pdf), *bioRxiv*, 2018
+- [ ] [Incorporating context into language encoding models for fMRI](https://www.biorxiv.org/content/early/2018/11/21/327601.full.pdf), *bioRxiv*, 2018
 
 
 <i>Auditory processing & speech perception</i>
 - [ ] [Brain-optimized extraction of complex sound features that drive continuous auditory perception](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007992), *PLOS Computational Biology*, 2020
 - [ ] [Towards reconstructing intelligible speech from the human auditory cortex](https://www.nature.com/articles/s41598-018-37359-z), *Scientific reports*, 2019
-- [ ] [Interpretation of Convolutional Neural Networks for Speech Spectrogram Regression from Intracranial Recordings](https://www.sciencedirect.com/science/article/pii/S092523121930133X), *Neurocomputing*, 2019
-- [ ] [A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy](https://www.sciencedirect.com/science/article/pii/S0896627318302502#sec4), *Neuron*, 2018
-- [ ] [Brains on Beats](http://papers.nips.cc/paper/6222-brains-on-beats.pdf), *NIPS*, 2016
+- [ ] [Interpretation of convolutional neural networks for speech spectrogram regression from intracranial recordings](https://www.sciencedirect.com/science/article/pii/S092523121930133X), *Neurocomputing*, 2019
+- [ ] [A task-optimized neural network replicates human auditory behavior, predicts brain responses, and reveals a cortical processing hierarchy](https://www.sciencedirect.com/science/article/pii/S0896627318302502#sec4), *Neuron*, 2018
+- [ ] [Brains on beats](http://papers.nips.cc/paper/6222-brains-on-beats.pdf), *NIPS*, 2016
 
 
 <i>Vision</i>
 - [ ] [Recurrence is required to capture the representational dynamics of the human visual system](https://www.pnas.org/content/116/43/21854.short), *PNAS*, 2019
 - [ ] [Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior](https://www.nature.com/articles/s41593-019-0392-5), *Nature Neuroscience*, 2019
-- [ ] [Activations of Deep Convolutional Neural Network are Aligned with Gamma Band Activity of Human Visual Cortex](https://www.biorxiv.org/content/biorxiv/early/2018/02/09/133694.full.pdf), *bioRxiv*, 2018
+- [ ] [Activations of deep convolutional neural network are aligned with gamma band activity of human visual cortex](https://www.biorxiv.org/content/biorxiv/early/2018/02/09/133694.full.pdf), *bioRxiv*, 2018
 - [ ] [Generative adversarial networks for reconstructing natural images from brain activity](https://www.sciencedirect.com/science/article/pii/S105381191830658X), *Neuroimage*, 2018
 - [ ] [Convolutional neural network-based encoding and decoding of visual object recognition in space and time](https://www.sciencedirect.com/science/article/pii/S1053811917305864?via%3Dihub), *Neuroimage*, 2018
-- [ ] [Modeling the Dynamics of Human Brain Activity with Recurrent Neural Networks](https://www.frontiersin.org/articles/10.3389/fncom.2017.00007/full), *Frontiers in Computational Neuroscience*, 2017
-- [ ] [Using Goal-driven Deep Learning Models to Understand Sensory Cortex](https://www.nature.com/articles/nn.4244), *Nature Neuroscience*, 2016
-- [ ] [Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream](http://www.jneurosci.org/content/jneuro/35/27/10005.full.pdf), *Journal of Neuroscience*, 2015
-- [ ] [Deep Learning for Neuroimaging: a Validation Study](https://www.frontiersin.org/articles/10.3389/fnins.2014.00229/full), *Frontiers in Neuroscience*, 2014
-- [ ] [Deep Supervised, but not Unsupervised, Models may Explain IT Cortical Representation](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915), *PLOS Computational Biology*, 2014
+- [ ] [Modeling the dynamics of human brain activity with recurrent neural networks](https://www.frontiersin.org/articles/10.3389/fncom.2017.00007/full), *Frontiers in Computational Neuroscience*, 2017
+- [ ] [Using goal-driven deep learning models to understand sensory cortex](https://www.nature.com/articles/nn.4244), *Nature Neuroscience*, 2016
+- [ ] [Deep neural networks reveal a gradient in the complexity of neural representations across the ventral stream](http://www.jneurosci.org/content/jneuro/35/27/10005.full.pdf), *Journal of Neuroscience*, 2015
+- [ ] [Deep learning for neuroimaging: a validation study](https://www.frontiersin.org/articles/10.3389/fnins.2014.00229/full), *Frontiers in Neuroscience*, 2014
+- [ ] [Deep supervised, but not unsupervised, models may explain IT cortical representation](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915), *PLOS Computational Biology*, 2014
 
 
 <i>Reviews</i>
 - [ ] [Neural network models and deep learning](https://www.sciencedirect.com/science/article/pii/S0960982219302040), *Current Biology*, 2019
 - [ ] [A deep learning framework for neuroscience](https://www.nature.com/articles/s41593-019-0520-2), *Nature Neuroscience*, 2019
-- [ ] [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/biorxiv/early/2017/05/04/133504.full.pdf), *bioRxiv*, 2017
-- [ ] [Toward an Integration of Deep Learning and Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full), *Frontiers in Computational Neuroscience*, 2016
-- [ ] [Deep Neural Networks: a New Framework for Modelling Biological Vision and Brain Information Processing](https://www.biorxiv.org/content/biorxiv/early/2015/10/26/029876.full.pdf), *bioRxiv*, 2015
+- [ ] [Deep neural networks in computational neuroscience](https://www.biorxiv.org/content/biorxiv/early/2017/05/04/133504.full.pdf), *bioRxiv*, 2017
+- [ ] [Toward an integration of deep learning and neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full), *Frontiers in Computational Neuroscience*, 2016
+- [ ] [Deep neural networks: a new framework for modelling biological vision and brain information processing](https://www.biorxiv.org/content/biorxiv/early/2015/10/26/029876.full.pdf), *bioRxiv*, 2015
 
 
 ## Brain-computer interfaces
@@ -44,10 +44,10 @@ Collection of papers in neuroscience with a focus on using artificial neural net
 - [ ] [High-performance brain-to-text communication via imagined handwriting](https://www.biorxiv.org/content/10.1101/2020.07.01.183384v1), *bioRxive*, 2020
 - [ ] [Speech synthesis from neural decoding of spoken sentences](https://www.nature.com/articles/s41586-019-1119-1), *Nature*, 2019
 - [ ] [Neural ensemble dynamics in dorsal motor cortex during speech in people with paralysis](https://elifesciences.org/articles/46015), *Elife*, 2019
-- [ ] [Speech Synthesis from ECoG using Densely Connected 3D Convolutional Neural Networks](https://www.biorxiv.org/content/early/2018/11/27/478644?ct), *bioRxiv*, 2018
-- [ ] [Sequence Transfer Learning for Neural Decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf), *bioRxiv*, 2017
+- [ ] [Speech Synthesis from ECoG using densely connected 3D convolutional neural networks](https://www.biorxiv.org/content/early/2018/11/27/478644?ct), *bioRxiv*, 2018
+- [ ] [Sequence transfer learning for neural decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf), *bioRxiv*, 2017
 - [ ] [Brain-to-text: decoding spoken phrases from phone representations in the brain](https://www.frontiersin.org/articles/10.3389/fnins.2015.00217/full), *Frontiers in Neuroscience*, 2015
-- [ ] [A Survey of Signal Processing Algorithms in Brain–computer Interfaces based on Electrical Brain Signals](https://iopscience.iop.org/article/10.1088/1741-2560/4/2/R03), *Journal of Neural Engineering*, 2007
+- [ ] [A survey of signal processing algorithms in brain–computer interfaces based on electrical brain signals](https://iopscience.iop.org/article/10.1088/1741-2560/4/2/R03), *Journal of Neural Engineering*, 2007
 
 
 ## Deep learning
