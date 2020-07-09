@@ -49,7 +49,7 @@ Collection of papers in neuroscience with a focus on using artificial neural net
 
 ## Deep learning
 
-This section is difficult to keep up to date with, only the most influential or personally relevant papers are mentioned
+This section is difficult to keep up to date with, only the most influential or personally relevant papers are mentioned.
 
 <i>Convolutional neural networks</i>
 - [ ] [Recent Advances in Convolutional Neural Networks](https://arxiv.org/pdf/1512.07108.pdf)
