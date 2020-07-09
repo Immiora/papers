@@ -1,5 +1,7 @@
 # Papers
 
+Collection of papers in neuroscience with a focus on using artificial neural networks to model brain data. 
+
 ## Deep learning in neuroscience
 
 <i>Language</i>
@@ -40,30 +42,34 @@
 - [ ] [Machine translation of cortical activity to text with an encoder–decoder framework](https://www.nature.com/articles/s41593-020-0608-8), *Nature Neuroscience*, 2020
 - [ ] [Speech synthesis from neural decoding of spoken sentences](https://www.nature.com/articles/s41586-019-1119-1), *Nature*, 2019
 - [ ] [Speech Synthesis from ECoG using Densely Connected 3D Convolutional Neural Networks](https://www.biorxiv.org/content/early/2018/11/27/478644?ct), *bioRxiv*, 2018
-- [ ] [Sequence Transfer Learning for Neural Decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf)
+- [ ] [Sequence Transfer Learning for Neural Decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf), *bioRxiv*, 2017
 - [ ] [Brain-to-text: decoding spoken phrases from phone representations in the brain](https://www.frontiersin.org/articles/10.3389/fnins.2015.00217/full), *Frontiers in Neuroscience*, 2015
-- [ ] [A Survey of Signal Processing Algorithms in Brain–computer Interfaces based on Electrical Brain Signals](https://pdfs.semanticscholar.org/b2ec/92cbf4a04637181c8598adfffbbbeb648ddf.pdf)
+- [ ] [A Survey of Signal Processing Algorithms in Brain–computer Interfaces based on Electrical Brain Signals](https://iopscience.iop.org/article/10.1088/1741-2560/4/2/R03), *Journal of Neural Engineering*, 2007
 
 
-## Convolutional neural networks
+## Deep learning
+
+This section is difficult to keep up to date with, only the most influential or personally relevant papers are mentioned
+
+<i>Convolutional neural networks</i>
 - [ ] [Recent Advances in Convolutional Neural Networks](https://arxiv.org/pdf/1512.07108.pdf)
 - [ ] [The Reversible Residual Network: Backpropagation without Storing Activations](https://arxiv.org/pdf/1707.04585.pdf)  
 - [ ] [Deep Networks with Stochastic Depth](https://arxiv.org/pdf/1603.09382.pdf)
 
 
-## Recurrent neural networks
+<i>Recurrent neural networks</i>
 - [ ] [Supervised Sequence Labelling with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/preprint.pdf)
 - [ ] [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](https://mediatum.ub.tum.de/doc/1292048/file.pdf)
 - [ ] [Deep Fragment Embeddings for Bidirectional Image Sentence Mapping](http://papers.nips.cc/paper/5281-deep-fragment-embeddings-for-bidirectional-image-sentence-mapping.pdf)
 
 
-## Recurrent convolutional neural networks
+<i>Recurrent convolutional neural networks</i>
 - [ ] [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/pdf/1507.05717.pdf)
 - [ ] [Recurrent Convolutional Neural Network for Object Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2B_004.pdf)
 - [ ] [Inception Recurrent Convolutional Neural Network for Object Recognition](https://arxiv.org/pdf/1704.07709.pdf)
 
 
-## Feature visualization
+<i>Feature visualization</i>
 - [ ] [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)  
 - [ ] [Visualizing Higher-layer Features of a Deep Network](https://www.researchgate.net/profile/Aaron_Courville/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network/links/53ff82b00cf24c81027da530.pdf)  
 - [ ] [Understanding Neural Networks Through Deep Visualization](https://arxiv.org/pdf/1506.06579.pdf)  
@@ -73,12 +79,12 @@
 - [ ] [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf)
 
 
-## Neural network pruning
+<i>Neural network pruning</i>
 - [ ] [Optimal Brain Damage](http://yann.lecun.com/exdb/publis/pdf/lecun-90b.pdf)
 - [ ] [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/pdf/1506.02626v3.pdf)
 
 
-## Machine learning
+## Other useful work
 - [ ] [Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 - [ ] [Gene Selection for Cancer Classification using Support Vector Machines](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.9598&rep=rep1&type=pdf)
 
