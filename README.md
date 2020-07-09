@@ -31,6 +31,12 @@ Collection of papers in neuroscience with a focus on using artificial neural net
 - [ ] [Deep supervised, but not unsupervised, models may explain IT cortical representation](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915), *PLOS Computational Biology*, 2014
 
 
+<i>Semantics</i>
+- [ ] [Connecting concepts in the brain by mapping cortical representations of semantic relations](https://www.nature.com/articles/s41467-020-15804-w), *Nature Communications*, 2020
+- [ ] [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637), *Nature*, 2016
+- [ ] [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://www.sciencedirect.com/science/article/pii/S0896627312009348), *Neuron*, 2012
+
+
 <i>Reviews</i>
 - [ ] [Neural network models and deep learning](https://www.sciencedirect.com/science/article/pii/S0960982219302040), *Current Biology*, 2019
 - [ ] [A deep learning framework for neuroscience](https://www.nature.com/articles/s41593-019-0520-2), *Nature Neuroscience*, 2019
