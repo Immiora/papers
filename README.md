@@ -41,7 +41,7 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 
 
 <i>Reviews</i>
-- [ ] [Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks](https://www.sciencedirect.com/science/article/pii/S089662731931044X), *Neuron*, 2020
+- [ ] [Direct fit to nature: an evolutionary perspective on biological and artificial neural networks](https://www.sciencedirect.com/science/article/pii/S089662731931044X), *Neuron*, 2020
 - [ ] [A critique of pure learning and what artificial neural networks can learn from animal brains](https://www.nature.com/articles/s41467-019-11786-6), *Nature Communications*, 2019
 - [ ] [Neural network models and deep learning](https://www.sciencedirect.com/science/article/pii/S0960982219302040), *Current Biology*, 2019
 - [ ] [A deep learning framework for neuroscience](https://www.nature.com/articles/s41593-019-0520-2), *Nature Neuroscience*, 2019
