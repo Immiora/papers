@@ -51,6 +51,7 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 
 
 ## Brain-computer interfaces
+- [ ] [Brain2Char: a deep architecture for decoding text from brain recordings](https://iopscience.iop.org/article/10.1088/1741-2552/abc742/meta), *Journal of Neural Engineering*, 2020
 - [ ] [Machine translation of cortical activity to text with an encoder–decoder framework](https://www.nature.com/articles/s41593-020-0608-8), *Nature Neuroscience*, 2020
 - [ ] [High-performance brain-to-text communication via imagined handwriting](https://www.biorxiv.org/content/10.1101/2020.07.01.183384v1), *bioRxive*, 2020
 - [ ] [Speech synthesis from neural decoding of spoken sentences](https://www.nature.com/articles/s41586-019-1119-1), *Nature*, 2019
