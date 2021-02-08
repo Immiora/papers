@@ -158,6 +158,7 @@ This section is difficult to keep up to date with, only the most influential or 
 
 
 # Blog
+- [ ] [OpenAI blog](https://openai.com/blog/)
 - [ ] [Tuning Recurrent Neural Networks with Reinforcement Learning](https://magenta.tensorflow.org/2016/11/09/tuning-recurrent-networks-with-reinforcement-learning)
 - [ ] [Pruning Deep Neural Networks to Make them Fast and Small](https://jacobgil.github.io/deeplearning/pruning-deep-learning)
 - [ ] [NstepLSTM in Chainer](https://qiita.com/aonotas/items/8e38693fb517e4e90535)
