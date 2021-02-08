@@ -58,7 +58,7 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 - [ ] [Imagined speech can be decoded from low- and cross-frequency features in perceptual space](https://www.biorxiv.org/content/10.1101/2021.01.26.428315v1), *bioRxiv*, 2021
 - [ ] [Real-time Synthesis of Imagined Speech Processes from Minimally Invasive Recordings of Neural Activity](https://www.biorxiv.org/content/10.1101/2020.12.11.421149v1), *bioRxiv*, 2020
 - [ ] [Brain2Char: a deep architecture for decoding text from brain recordings](https://iopscience.iop.org/article/10.1088/1741-2552/abc742/meta), *Journal of Neural Engineering*, 2020 - **ANNs**
-- [ ] [Decoding spoken English from intracortical electrode arrays in dorsal precentral gyrus](https://iopscience.iop.org/article/10.1088/1741-2552/abbfef), Journal of Neural Engineering*Journal of Neural Engineering*, 2020
+- [ ] [Decoding spoken English from intracortical electrode arrays in dorsal precentral gyrus](https://iopscience.iop.org/article/10.1088/1741-2552/abbfef), *Journal of Neural Engineering*, 2020
 - [ ] [Machine translation of cortical activity to text with an encoder–decoder framework](https://www.nature.com/articles/s41593-020-0608-8), *Nature Neuroscience*, 2020 - **ANNs**
 - [ ] [Speech synthesis from neural decoding of spoken sentences](https://www.nature.com/articles/s41586-019-1119-1), *Nature*, 2019 - **ANNs**
 - [ ] [Neural ensemble dynamics in dorsal motor cortex during speech in people with paralysis](https://elifesciences.org/articles/46015), *Elife*, 2019
