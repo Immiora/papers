@@ -147,6 +147,9 @@ This section is difficult to keep up to date with, only the most influential or 
 
 
 # Github
+- [ ] [WaveGan and SpecGan](https://github.com/chrisdonahue/wavegan)
+- [ ] [Parallel WaveGan implementation](https://github.com/kan-bayashi/ParallelWaveGAN)
+- [ ] [ESPnet](https://github.com/espnet/espnet)
 - [ ] [Google Brain Magenta](https://github.com/tensorflow/magenta)
 - [ ] [Detectron Facebook](https://github.com/facebookresearch/Detectron)
 - [ ] [Fasttext Facebook](https://github.com/facebookresearch/fastText)
