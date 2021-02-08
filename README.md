@@ -91,8 +91,8 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 
 <i>Other</i>
 
-- [ ] [High-performance brain-to-text communication via imagined handwriting](https://www.biorxiv.org/content/10.1101/2020.07.01.183384v1), *bioRxive*, 2020
-- [ ] [Sequence transfer learning for neural decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf), *bioRxiv*, 2017
+- [ ] [High-performance brain-to-text communication via imagined handwriting](https://www.biorxiv.org/content/10.1101/2020.07.01.183384v1), *bioRxive*, 2020 - **RNNs**
+- [ ] [Sequence transfer learning for neural decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf), *bioRxiv*, 2017 - **RNNs**
 
 
 ## Deep learning
