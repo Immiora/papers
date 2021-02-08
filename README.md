@@ -5,8 +5,12 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 ## Deep learning in cognitive neuroscience
 
 <i>Language</i>
+- [ ] [Voxelwise encoding models show that cerebellar language representations are highly conceptual](https://www.biorxiv.org/content/10.1101/2021.01.18.427158v1), *bioRxiv*, 2021
+- [ ] [Cortical network responses map onto data-driven features that capture visual semantics of movie fragments](https://www.nature.com/articles/s41598-020-68853-y), *Scientific reports*, 2020
 - [ ] [Artificial neural networks accurately predict language processing in the brain](https://www.biorxiv.org/content/10.1101/2020.06.26.174482v1), *bioRxiv*, 2020
 - [ ] [Language processing in brains and deep neural networks: computational convergence and its limits](https://www.biorxiv.org/content/10.1101/2020.07.03.186288v1), *bioRxiv*, 2020
+- [ ] [Interpretable multi-timescale models for predicting fMRI responses to continuous natural speech](https://www.biorxiv.org/content/10.1101/2020.10.02.324392v1), *bioRxiv*, 2020
+- [ ] [Multi-timescale representation learning in LSTM Language Models](https://arxiv.org/abs/2009.12727), *bioRxiv*, 2020
 - [ ] [Incorporating context into language encoding models for fMRI](https://www.biorxiv.org/content/early/2018/11/21/327601.full.pdf), *bioRxiv*, 2018
 
 
@@ -17,11 +21,16 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 - [ ] [Towards reconstructing intelligible speech from the human auditory cortex](https://www.nature.com/articles/s41598-018-37359-z), *Scientific reports*, 2019
 - [ ] [Interpretation of convolutional neural networks for speech spectrogram regression from intracranial recordings](https://www.sciencedirect.com/science/article/pii/S092523121930133X), *Neurocomputing*, 2019
 - [ ] [A task-optimized neural network replicates human auditory behavior, predicts brain responses, and reveals a cortical processing hierarchy](https://www.sciencedirect.com/science/article/pii/S0896627318302502#sec4), *Neuron*, 2018
+- [ ] [Modeling brain responses to perceived speech with LSTM networks](https://pure.tue.nl/ws/portalfiles/portal/72619856/#page=150), *2017 Benelearn conference proceedings*, 2017
 - [ ] [Brains on beats](http://papers.nips.cc/paper/6222-brains-on-beats.pdf), *NIPS*, 2016
 
 
 <i>Vision</i>
-- [ ] [End-to-end neural system identification with neural information flow](https://www.biorxiv.org/content/10.1101/553255v3.abstract), *bioRxiv*, 2019
+- [ ] [Brain2Pix: Fully convolutional naturalistic video reconstruction from brain activity](https://www.biorxiv.org/content/10.1101/2021.02.02.429430v1), *bioRxiv*, 2021
+- [ ] [End-to-end neural system identification with neural information flow](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008558), *PLOS Computational Biology*, 2021
+- [ ] [Hyperrealistic neural decoding: Linear reconstruction of face stimuli from fMRI measurements via the GAN latent space](https://www.biorxiv.org/content/10.1101/2020.07.01.168849v1), *bioRxiv*, 2020
+- [ ] [Individual differences among deep neural network models](https://www.nature.com/articles/s41467-020-19632-w), *Nature Communications*, 2020
+- [ ] [Recurrent neural networks can explain flexible trading of speed and accuracy in biological vision](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008215&rev=2), *PLOS Computational Biology*, 2020
 - [ ] [Recurrence is required to capture the representational dynamics of the human visual system](https://www.pnas.org/content/116/43/21854.short), *PNAS*, 2019
 - [ ] [Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior](https://www.nature.com/articles/s41593-019-0392-5), *Nature Neuroscience*, 2019
 - [ ] [Activations of deep convolutional neural networks are aligned with gamma band activity of human visual cortex](https://www.nature.com/articles/s42003-018-0110-y), *Nature Communications Biology*, 2018
