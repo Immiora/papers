@@ -4,14 +4,18 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 
 ## Deep learning in cognitive neuroscience
 
-<i>Language</i>
+<i>Language and semantics</i>
 - [ ] [Voxelwise encoding models show that cerebellar language representations are highly conceptual](https://www.biorxiv.org/content/10.1101/2021.01.18.427158v1), *bioRxiv*, 2021
 - [ ] [Cortical network responses map onto data-driven features that capture visual semantics of movie fragments](https://www.nature.com/articles/s41598-020-68853-y), *Scientific reports*, 2020
 - [ ] [Artificial neural networks accurately predict language processing in the brain](https://www.biorxiv.org/content/10.1101/2020.06.26.174482v1), *bioRxiv*, 2020
 - [ ] [Language processing in brains and deep neural networks: computational convergence and its limits](https://www.biorxiv.org/content/10.1101/2020.07.03.186288v1), *bioRxiv*, 2020
 - [ ] [Interpretable multi-timescale models for predicting fMRI responses to continuous natural speech](https://www.biorxiv.org/content/10.1101/2020.10.02.324392v1), *bioRxiv*, 2020
 - [ ] [Multi-timescale representation learning in LSTM Language Models](https://arxiv.org/abs/2009.12727), *bioRxiv*, 2020
+- [ ] [Connecting concepts in the brain by mapping cortical representations of semantic relations](https://www.nature.com/articles/s41467-020-15804-w), *Nature Communications*, 2020
 - [ ] [Incorporating context into language encoding models for fMRI](https://www.biorxiv.org/content/early/2018/11/21/327601.full.pdf), *bioRxiv*, 2018
+- [ ] [The hierarchical cortical organization of human speech processing](https://www.jneurosci.org/content/37/27/6539.full), *Journal of Neuroscience*, 2017
+- [ ] [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637), *Nature*, 2016
+- [ ] [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://www.sciencedirect.com/science/article/pii/S0896627312009348), *Neuron*, 2012
 
 
 <i>Auditory processing & speech perception</i>
@@ -41,13 +45,6 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 - [ ] [Deep neural networks reveal a gradient in the complexity of neural representations across the ventral stream](http://www.jneurosci.org/content/jneuro/35/27/10005.full.pdf), *Journal of Neuroscience*, 2015
 - [ ] [Deep learning for neuroimaging: a validation study](https://www.frontiersin.org/articles/10.3389/fnins.2014.00229/full), *Frontiers in Neuroscience*, 2014
 - [ ] [Deep supervised, but not unsupervised, models may explain IT cortical representation](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915), *PLOS Computational Biology*, 2014
-
-
-<i>Semantics</i>
-- [ ] [Connecting concepts in the brain by mapping cortical representations of semantic relations](https://www.nature.com/articles/s41467-020-15804-w), *Nature Communications*, 2020
-- [ ] [The hierarchical cortical organization of human speech processing](https://www.jneurosci.org/content/37/27/6539.full), *Journal of Neuroscience*, 2017
-- [ ] [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637), *Nature*, 2016
-- [ ] [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://www.sciencedirect.com/science/article/pii/S0896627312009348), *Neuron*, 2012
 
 
 <i>Reviews</i>
