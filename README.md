@@ -144,6 +144,7 @@ This section is difficult to keep up to date with, only the most influential or 
 
 
 # Github
+- [ ] [Fairseq](https://github.com/pytorch/fairseq)
 - [ ] [WaveGan and SpecGan](https://github.com/chrisdonahue/wavegan)
 - [ ] [Parallel WaveGan implementation](https://github.com/kan-bayashi/ParallelWaveGAN)
 - [ ] [ESPnet](https://github.com/espnet/espnet)
@@ -155,6 +156,7 @@ This section is difficult to keep up to date with, only the most influential or 
 
 
 # Blog
+- [ ] [Wav2Vec2](https://huggingface.co/facebook/wav2vec2-base-960h)
 - [ ] [OpenAI blog](https://openai.com/blog/)
 - [ ] [Tuning Recurrent Neural Networks with Reinforcement Learning](https://magenta.tensorflow.org/2016/11/09/tuning-recurrent-networks-with-reinforcement-learning)
 - [ ] [Pruning Deep Neural Networks to Make them Fast and Small](https://jacobgil.github.io/deeplearning/pruning-deep-learning)
