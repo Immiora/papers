@@ -144,14 +144,15 @@ This section is difficult to keep up to date with, only the most influential or 
 
 
 # Github
-- [ ] [Fairseq](https://github.com/pytorch/fairseq)
-- [ ] [WaveGan and SpecGan](https://github.com/chrisdonahue/wavegan)
-- [ ] [Parallel WaveGan implementation](https://github.com/kan-bayashi/ParallelWaveGAN)
-- [ ] [ESPnet](https://github.com/espnet/espnet)
-- [ ] [Google Brain Magenta](https://github.com/tensorflow/magenta)
-- [ ] [Detectron Facebook](https://github.com/facebookresearch/Detectron)
-- [ ] [Fasttext Facebook](https://github.com/facebookresearch/fastText)
-- [ ] [Netscope](https://github.com/ethereon/netscope)
+- [ ] [Fairseq](https://github.com/pytorch/fairseq) - many implemented papers on language and sequence modeling, pretrained models shared
+- [ ] [WaveGan and SpecGan](https://github.com/chrisdonahue/wavegan) - official implementation of [Adversarial Audio Synthesis](https://arxiv.org/abs/1802.04208), TensorFlow
+- [ ] [Parallel WaveGan implementation](https://github.com/kan-bayashi/ParallelWaveGAN) - unofficial implementation of [Parallel Wavegan: A Fast Waveform Generation Model Based on Generative Adversarial Networks with Multi-Resolution Spectrogram](https://ieeexplore.ieee.org/abstract/document/9053795)
+- [ ] [ESPnet](https://github.com/espnet/espnet) - toolking for training ASR and TTS models, PyTorch and Chainer, Kaldi recepies
+- [ ] [Google Brain Magenta](https://github.com/tensorflow/magenta) - several models for music generation and compressed representations including implementation of [Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders](http://proceedings.mlr.press/v70/engel17a.html)
+- [ ] [Detectron Facebook](https://github.com/facebookresearch/Detectron) - models for visual object detection, Caffe2
+- [ ] [Fasttext Facebook](https://github.com/facebookresearch/fastText) - subword alternative to word2vec
+- [ ] [Netscope](https://github.com/ethereon/netscope) - tool for visualizing network architectures
+- [ ] [Optuna](https://github.com/optuna/optuna) - hyperparameter optimization for neural nets, supports TensorFlow, Keras, PyTorch, Chainer
 - [ ] [Image Caption Generation with Chainer](https://github.com/apple2373/chainer-caption)
 
 
