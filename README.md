@@ -5,6 +5,7 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 ## Deep learning in cognitive neuroscience
 
 <i>Language and semantics</i>
+- [ ] [Semantic knowledge of famous people and places is represented in hippocampus and distinct cortical networks](https://www.jneurosci.org/content/early/2021/02/04/JNEUROSCI.2034-19.2021), *Journal of Neuroscience*, 2021
 - [ ] [Voxelwise encoding models show that cerebellar language representations are highly conceptual](https://www.biorxiv.org/content/10.1101/2021.01.18.427158v1), *bioRxiv*, 2021
 - [ ] [Cortical network responses map onto data-driven features that capture visual semantics of movie fragments](https://www.nature.com/articles/s41598-020-68853-y), *Scientific reports*, 2020
 - [ ] [Artificial neural networks accurately predict language processing in the brain](https://www.biorxiv.org/content/10.1101/2020.06.26.174482v1), *bioRxiv*, 2020
