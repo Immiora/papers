@@ -5,8 +5,11 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 ## Deep learning in cognitive neuroscience
 
 <i>Language and semantics</i>
+- [ ] [Thinking ahead: spontaneous prediction in context as a keystone of language in humans and machines](https://www.biorxiv.org/content/10.1101/2020.12.02.403477v3.abstract), *bioRxiv*, 2021
+- [ ] [Cortical processing of reference in language revealed by computational models](https://www.biorxiv.org/content/10.1101/2020.11.24.396598v3), *bioRxiv*, 2021
 - [ ] [Semantic knowledge of famous people and places is represented in hippocampus and distinct cortical networks](https://www.jneurosci.org/content/early/2021/02/04/JNEUROSCI.2034-19.2021), *Journal of Neuroscience*, 2021
 - [ ] [Voxelwise encoding models show that cerebellar language representations are highly conceptual](https://www.biorxiv.org/content/10.1101/2021.01.18.427158v1), *bioRxiv*, 2021
+- [ ] [A hierarchy of linguistic predictions during natural language comprehension](https://www.biorxiv.org/content/10.1101/2020.12.03.410399v4), *bioRxiv*, 2021
 - [ ] [Cortical network responses map onto data-driven features that capture visual semantics of movie fragments](https://www.nature.com/articles/s41598-020-68853-y), *Scientific reports*, 2020
 - [ ] [Artificial neural networks accurately predict language processing in the brain](https://www.biorxiv.org/content/10.1101/2020.06.26.174482v1), *bioRxiv*, 2020
 - [ ] [Language processing in brains and deep neural networks: computational convergence and its limits](https://www.biorxiv.org/content/10.1101/2020.07.03.186288v1), *bioRxiv*, 2020
@@ -60,10 +63,12 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 
 ## Brain-computer interfaces
 
-<i>Decoding of produced speech</i>
+<i>Decoding of attempted speech</i>
+- [ ] [Neuroprosthesis for Decoding Speech in a Paralyzed Person with Anarthria](https://www.nejm.org/doi/full/10.1056/NEJMoa2027540), *NEJM*, 2021 - **ANNs**
 
+<i>Decoding of produced speech</i>
 - [ ] [Imagined speech can be decoded from low- and cross-frequency features in perceptual space](https://www.biorxiv.org/content/10.1101/2021.01.26.428315v1), *bioRxiv*, 2021
-- [ ] [Real-time Synthesis of Imagined Speech Processes from Minimally Invasive Recordings of Neural Activity](https://www.biorxiv.org/content/10.1101/2020.12.11.421149v1), *bioRxiv*, 2020
+- [ ] [Real-time synthesis of imagined speech processes from minimally invasive recordings of neural activity](https://www.biorxiv.org/content/10.1101/2020.12.11.421149v1), *bioRxiv*, 2020
 - [ ] [Brain2Char: a deep architecture for decoding text from brain recordings](https://iopscience.iop.org/article/10.1088/1741-2552/abc742/meta), *Journal of Neural Engineering*, 2020 - **ANNs**
 - [ ] [Decoding spoken English from intracortical electrode arrays in dorsal precentral gyrus](https://iopscience.iop.org/article/10.1088/1741-2552/abbfef), *Journal of Neural Engineering*, 2020
 - [ ] [Machine translation of cortical activity to text with an encoder–decoder framework](https://www.nature.com/articles/s41593-020-0608-8), *Nature Neuroscience*, 2020 - **ANNs**
@@ -87,7 +92,6 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 - [ ] [A survey of signal processing algorithms in brain–computer interfaces based on electrical brain signals](https://iopscience.iop.org/article/10.1088/1741-2560/4/2/R03), *Journal of Neural Engineering*, 2007
 
 <i>Decoding of perceived speech</i>
-
 - [ ] [Stimulus Speech Decoding from Human Cortex with Generative Adversarial Network Transfer Learning](https://ieeexplore.ieee.org/abstract/document/9098589), *2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI)*, 2020 - **ANNs**
 - [ ] [Towards reconstructing intelligible speech from the human auditory cortex](https://www.nature.com/articles/s41598-018-37359-z), *Scientific Reports*, 2019 - **ANNs**
 - [ ] [Reconstructing Speech Stimuli From Human Auditory Cortex Activity Using a WaveNet Approach](https://ieeexplore.ieee.org/document/8615605), *2018 IEEE Signal Processing in Medicine and Biology Symposium (SPMB)*, 2018 - **ANNs**
@@ -97,7 +101,6 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 - [ ] [Reconstructing speech from human auditory cortex](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001251), *PLOS Biology*, 2012
 
 <i>Other</i>
-
 - [ ] [High-performance brain-to-text communication via imagined handwriting](https://www.biorxiv.org/content/10.1101/2020.07.01.183384v1), *bioRxive*, 2020 - **ANNs**
 - [ ] [Sequence transfer learning for neural decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf), *bioRxiv*, 2017 - **ANNs**
 
