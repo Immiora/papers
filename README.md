@@ -6,6 +6,7 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 
 <i>Language and semantics</i>
 - [ ] [Thinking ahead: spontaneous prediction in context as a keystone of language in humans and machines](https://www.biorxiv.org/content/10.1101/2020.12.02.403477v3.abstract), *bioRxiv*, 2021
+- [ ] [GPT-2’s activations predict the degree of semantic comprehension in the human brain](https://www.biorxiv.org/content/10.1101/2021.04.20.440622v2), *bioRxiv*, 2021
 - [ ] [Cortical processing of reference in language revealed by computational models](https://www.biorxiv.org/content/10.1101/2020.11.24.396598v3), *bioRxiv*, 2021
 - [ ] [Semantic knowledge of famous people and places is represented in hippocampus and distinct cortical networks](https://www.jneurosci.org/content/early/2021/02/04/JNEUROSCI.2034-19.2021), *Journal of Neuroscience*, 2021
 - [ ] [Voxelwise encoding models show that cerebellar language representations are highly conceptual](https://www.biorxiv.org/content/10.1101/2021.01.18.427158v1), *bioRxiv*, 2021
