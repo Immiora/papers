@@ -5,6 +5,7 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 ## Deep learning in cognitive neuroscience
 
 <i>Language and semantics</i>
+- [ ] [The neural architecture of language: Integrative modeling converges on predictive processing](https://www.pnas.org/content/118/45/e2105646118.short), *PNAS*, 2021
 - [ ] [Thinking ahead: spontaneous prediction in context as a keystone of language in humans and machines](https://www.biorxiv.org/content/10.1101/2020.12.02.403477v3.abstract), *bioRxiv*, 2021
 - [ ] [GPT-2’s activations predict the degree of semantic comprehension in the human brain](https://www.biorxiv.org/content/10.1101/2021.04.20.440622v2), *bioRxiv*, 2021
 - [ ] [Cortical processing of reference in language revealed by computational models](https://www.biorxiv.org/content/10.1101/2020.11.24.396598v3), *bioRxiv*, 2021
@@ -12,7 +13,6 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 - [ ] [Voxelwise encoding models show that cerebellar language representations are highly conceptual](https://www.biorxiv.org/content/10.1101/2021.01.18.427158v1), *bioRxiv*, 2021
 - [ ] [A hierarchy of linguistic predictions during natural language comprehension](https://www.biorxiv.org/content/10.1101/2020.12.03.410399v4), *bioRxiv*, 2021
 - [ ] [Cortical network responses map onto data-driven features that capture visual semantics of movie fragments](https://www.nature.com/articles/s41598-020-68853-y), *Scientific reports*, 2020
-- [ ] [Artificial neural networks accurately predict language processing in the brain](https://www.biorxiv.org/content/10.1101/2020.06.26.174482v1), *bioRxiv*, 2020
 - [ ] [Language processing in brains and deep neural networks: computational convergence and its limits](https://www.biorxiv.org/content/10.1101/2020.07.03.186288v1), *bioRxiv*, 2020
 - [ ] [Interpretable multi-timescale models for predicting fMRI responses to continuous natural speech](https://www.biorxiv.org/content/10.1101/2020.10.02.324392v1), *bioRxiv*, 2020
 - [ ] [Multi-timescale representation learning in LSTM Language Models](https://arxiv.org/abs/2009.12727), *bioRxiv*, 2020
