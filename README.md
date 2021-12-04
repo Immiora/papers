@@ -68,6 +68,7 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 - [ ] [Neuroprosthesis for Decoding Speech in a Paralyzed Person with Anarthria](https://www.nejm.org/doi/full/10.1056/NEJMoa2027540), *NEJM*, 2021 - **ANNs**
 
 <i>Decoding of produced speech</i>
+- [ ] [Synthesizing speech from intracranial depth electrodes using an encoder-decoder framework](https://arxiv.org/abs/2111.01457), *arXiv*, 2021 - **ANNs**
 - [ ] [Imagined speech can be decoded from low- and cross-frequency features in perceptual space](https://www.biorxiv.org/content/10.1101/2021.01.26.428315v1), *bioRxiv*, 2021
 - [ ] [Real-time synthesis of imagined speech processes from minimally invasive recordings of neural activity](https://www.biorxiv.org/content/10.1101/2020.12.11.421149v1), *bioRxiv*, 2020
 - [ ] [Brain2Char: a deep architecture for decoding text from brain recordings](https://iopscience.iop.org/article/10.1088/1741-2552/abc742/meta), *Journal of Neural Engineering*, 2020 - **ANNs**
