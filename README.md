@@ -2,6 +2,55 @@
 
 Collection of papers in cognitive neuroscience with a focus on using artificial neural networks to model brain data. There is also a section on brain-computer interfaces with indication which papers use artificial neural networks for brain decoding.  
 
+## Brain-computer interfaces
+
+<i>Decoding of attempted speech</i>
+- [ ] [Online speech synthesis using a chronically implanted brain-computer interface in an individual with ALS](https://www.medrxiv.org/content/10.1101/2023.06.30.23291352v1), *medRxiv*, 2023 - **ANNs**
+- [ ] [A high-performance speech neuroprosthesis](https://www.nature.com/articles/s41586-023-06377-x), *Nature*, 2023 - **ANNs**
+- [ ] [A high-performance neuroprosthesis for speech decoding and avatar control](https://www.nature.com/articles/s41586-023-06443-4), *Nature*, 2023 - **ANNs**
+- [ ] [Generalizable spelling using a speech neuroprosthesis in an individual with severe limb and vocal paralysis](https://www.nature.com/articles/s41467-022-33611-3), *Nature Communications*, 2022 - **ANNs**
+- [ ] [Neuroprosthesis for Decoding Speech in a Paralyzed Person with Anarthria](https://www.nejm.org/doi/full/10.1056/NEJMoa2027540), *NEJM*, 2021 - **ANNs**
+
+<i>Decoding of produced speech</i>
+- [ ] [Direct speech reconstruction from sensorimotor brain activity with optimized deep learning models](https://iopscience.iop.org/article/10.1088/1741-2552/ace8be), *Journal of Neural Engineering*, 2023
+- [ ] [Imagined speech can be decoded from low- and cross-frequency features in perceptual space](https://www.nature.com/articles/s41467-021-27725-3), *Nature Communications*, 2022
+- [ ] [Synthesizing speech from intracranial depth electrodes using an encoder-decoder framework](https://arxiv.org/abs/2111.01457), *arXiv*, 2021 - **ANNs**
+- [ ] [Real-time synthesis of imagined speech processes from minimally invasive recordings of neural activity](https://www.nature.com/articles/s42003-021-02578-0), *Communications Biology*, 2020
+- [ ] [Brain2Char: a deep architecture for decoding text from brain recordings](https://iopscience.iop.org/article/10.1088/1741-2552/abc742/meta), *Journal of Neural Engineering*, 2020 - **ANNs**
+- [ ] [Decoding spoken English from intracortical electrode arrays in dorsal precentral gyrus](https://iopscience.iop.org/article/10.1088/1741-2552/abbfef), *Journal of Neural Engineering*, 2020
+- [ ] [Machine translation of cortical activity to text with an encoder–decoder framework](https://www.nature.com/articles/s41593-020-0608-8), *Nature Neuroscience*, 2020 - **ANNs**
+- [ ] [Speech synthesis from neural decoding of spoken sentences](https://www.nature.com/articles/s41586-019-1119-1), *Nature*, 2019 - **ANNs**
+- [ ] [Neural ensemble dynamics in dorsal motor cortex during speech in people with paralysis](https://elifesciences.org/articles/46015), *Elife*, 2019.
+- [ ] [Speech synthesis from ECoG using densely connected 3D convolutional neural networks](https://iopscience.iop.org/article/10.1088/1741-2552/ab0c59), *Journal of Neural Engineering*, 2019 - **ANNs**
+- [ ] [Generating natural, intelligible speech from brain activity in motor, premotor, and inferior frontal cortices](https://www.frontiersin.org/articles/10.3389/fnins.2019.01267/full), *Frontiers in Neuroscience*, 2019
+- [ ] [Decoding inner speech using electrocorticography: progress and challenges toward a speech prosthesis](https://www.frontiersin.org/articles/10.3389/fnins.2018.00422/full), *Frontiers in Neuroscience*, 2018
+- [ ] [Decoding spoken phonemes from sensorimotor cortex with high-density ECoG grids](https://www.sciencedirect.com/science/article/pii/S1053811917308248), *NeuroImage*, 2018
+- [ ] [Brain-to-text: decoding spoken phrases from phone representations in the brain](https://www.frontiersin.org/articles/10.3389/fnins.2015.00217/full), *Frontiers in Neuroscience*, 2015
+- [ ] [Direct classification of all American English phonemes using signals from functional speech motor cortex](https://iopscience.iop.org/article/10.1088/1741-2560/11/3/035015), *Journal of Neural Engineering*, 2014
+- [ ] [Neural decoding of spoken vowels from human sensory-motor cortex with high-density electrocorticography](https://ieeexplore.ieee.org/abstract/document/6945185), *2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society*, 2014
+- [ ] [Neural decoding of single vowels during covert articulation using electrocorticography](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00125/full), *Frontiers in Human Neuroscience*, 2014
+- [ ] [Decoding spectrotemporal features of overt and covert speech from the human cortex](https://www.frontiersin.org/articles/10.3389/fneng.2014.00014/full), *Frontiers in Neuroengineering*, 2014
+- [ ] [Structured neuronal encoding and decoding of human speech features](https://www.nature.com/articles/ncomms1995), *Nature Communications*, 2012
+- [ ] [Classification of intended phoneme production from chronic intracortical microelectrode recordings in speech-motor cortex](https://www.frontiersin.org/articles/10.3389/fnins.2011.00065/full), *Frontiers in Neuroscience*, 2011
+- [ ] [Decoding vowels and consonants in spoken and imagined words using electrocorticographic signals in humans](https://iopscience.iop.org/article/10.1088/1741-2560/8/4/046028/), *Journal of Neural Engineering*, 2011
+- [ ] [Using the electrocorticographic speech network to control a brain–computer interface in humans](https://iopscience.iop.org/article/10.1088/1741-2560/8/3/036004), *Journal of Neural Engineering*, 2011
+- [ ] [Decoding spoken words using local field potentials recorded from the cortical surface](https://iopscience.iop.org/article/10.1088/1741-2560/7/5/056007), *Journal of Neural Engineering*, 2010
+- [ ] [Localization and classification of phonemes using high spatial resolution electrocorticography (ECoG) grids](https://ieeexplore.ieee.org/abstract/document/4650328), *2008 30th Annual International Conference of the IEEE Engineering in Medicine and Biology Society*, 2008
+- [ ] [A survey of signal processing algorithms in brain–computer interfaces based on electrical brain signals](https://iopscience.iop.org/article/10.1088/1741-2560/4/2/R03), *Journal of Neural Engineering*, 2007
+
+<i>Decoding of perceived speech</i>
+- [ ] [Stimulus Speech Decoding from Human Cortex with Generative Adversarial Network Transfer Learning](https://ieeexplore.ieee.org/abstract/document/9098589), *2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI)*, 2020 - **ANNs**
+- [ ] [Towards reconstructing intelligible speech from the human auditory cortex](https://www.nature.com/articles/s41598-018-37359-z), *Scientific Reports*, 2019 - **ANNs**
+- [ ] [Reconstructing Speech Stimuli From Human Auditory Cortex Activity Using a WaveNet Approach](https://ieeexplore.ieee.org/document/8615605), *2018 IEEE Signal Processing in Medicine and Biology Symposium (SPMB)*, 2018 - **ANNs**
+- [ ] [Real-time classification of auditory sentences using evoked cortical activity in humans](https://iopscience.iop.org/article/10.1088/1741-2552/aaab6f), *Journal of Neural Engineering*, 2018
+- [ ] [Word pair classification during imagined speech using direct brain recordings](https://www.nature.com/articles/srep25803), *Scientific Reports*, 2016
+- [ ] [Neural speech recognition: continuous phoneme decoding using spatiotemporal representations of human cortical activity](https://iopscience.iop.org/article/10.1088/1741-2560/13/5/056004), *Journal of Neural Engineering*, 2016
+- [ ] [Reconstructing speech from human auditory cortex](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001251), *PLOS Biology*, 2012
+
+<i>Other</i>
+- [ ] [High-performance brain-to-text communication via imagined handwriting](https://www.biorxiv.org/content/10.1101/2020.07.01.183384v1), *bioRxive*, 2020 - **ANNs**
+- [ ] [Sequence transfer learning for neural decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf), *bioRxiv*, 2017 - **ANNs**
+
 ## Deep learning in cognitive neuroscience
 
 <i>Language and semantics</i>
@@ -61,52 +110,7 @@ Collection of papers in cognitive neuroscience with a focus on using artificial 
 - [ ] [Toward an integration of deep learning and neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full), *Frontiers in Computational Neuroscience*, 2016
 - [ ] [Deep neural networks: a new framework for modelling biological vision and brain information processing](https://www.biorxiv.org/content/biorxiv/early/2015/10/26/029876.full.pdf), *bioRxiv*, 2015
 
-
-## Brain-computer interfaces
-
-<i>Decoding of attempted speech</i>
-- [ ] [Neuroprosthesis for Decoding Speech in a Paralyzed Person with Anarthria](https://www.nejm.org/doi/full/10.1056/NEJMoa2027540), *NEJM*, 2021 - **ANNs**
-
-<i>Decoding of produced speech</i>
-- [ ] [Imagined speech can be decoded from low- and cross-frequency features in perceptual space](https://www.nature.com/articles/s41467-021-27725-3), *Nature Communications*, 2022
-- [ ] [Synthesizing speech from intracranial depth electrodes using an encoder-decoder framework](https://arxiv.org/abs/2111.01457), *arXiv*, 2021 - **ANNs**
-- [ ] [Real-time synthesis of imagined speech processes from minimally invasive recordings of neural activity](https://www.nature.com/articles/s42003-021-02578-0), *Communications Biology*, 2020
-- [ ] [Brain2Char: a deep architecture for decoding text from brain recordings](https://iopscience.iop.org/article/10.1088/1741-2552/abc742/meta), *Journal of Neural Engineering*, 2020 - **ANNs**
-- [ ] [Decoding spoken English from intracortical electrode arrays in dorsal precentral gyrus](https://iopscience.iop.org/article/10.1088/1741-2552/abbfef), *Journal of Neural Engineering*, 2020
-- [ ] [Machine translation of cortical activity to text with an encoder–decoder framework](https://www.nature.com/articles/s41593-020-0608-8), *Nature Neuroscience*, 2020 - **ANNs**
-- [ ] [Speech synthesis from neural decoding of spoken sentences](https://www.nature.com/articles/s41586-019-1119-1), *Nature*, 2019 - **ANNs**
-- [ ] [Neural ensemble dynamics in dorsal motor cortex during speech in people with paralysis](https://elifesciences.org/articles/46015), *Elife*, 2019
-- [ ] [Generating natural, intelligible speech from brain activity in motor, premotor, and inferior frontal cortices](https://www.frontiersin.org/articles/10.3389/fnins.2019.01267/full), *Frontiers in Neuroscience*, 2019
-- [ ] [Decoding inner speech using electrocorticography: progress and challenges toward a speech prosthesis](https://www.frontiersin.org/articles/10.3389/fnins.2018.00422/full), *Frontiers in Neuroscience*, 2018
-- [ ] [Speech synthesis from ECoG using densely connected 3D convolutional neural networks](https://www.biorxiv.org/content/early/2018/11/27/478644?ct), *bioRxiv*, 2018 - **ANNs**
-- [ ] [Decoding spoken phonemes from sensorimotor cortex with high-density ECoG grids](https://www.sciencedirect.com/science/article/pii/S1053811917308248), *NeuroImage*, 2018
-- [ ] [Brain-to-text: decoding spoken phrases from phone representations in the brain](https://www.frontiersin.org/articles/10.3389/fnins.2015.00217/full), *Frontiers in Neuroscience*, 2015
-- [ ] [Direct classification of all American English phonemes using signals from functional speech motor cortex](https://iopscience.iop.org/article/10.1088/1741-2560/11/3/035015), *Journal of Neural Engineering*, 2014
-- [ ] [Neural decoding of spoken vowels from human sensory-motor cortex with high-density electrocorticography](https://ieeexplore.ieee.org/abstract/document/6945185), *2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society*, 2014
-- [ ] [Neural decoding of single vowels during covert articulation using electrocorticography](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00125/full), *Frontiers in Human Neuroscience*, 2014
-- [ ] [Decoding spectrotemporal features of overt and covert speech from the human cortex](https://www.frontiersin.org/articles/10.3389/fneng.2014.00014/full), *Frontiers in Neuroengineering*, 2014
-- [ ] [Structured neuronal encoding and decoding of human speech features](https://www.nature.com/articles/ncomms1995), *Nature Communications*, 2012
-- [ ] [Classification of intended phoneme production from chronic intracortical microelectrode recordings in speech-motor cortex](https://www.frontiersin.org/articles/10.3389/fnins.2011.00065/full), *Frontiers in Neuroscience*, 2011
-- [ ] [Decoding vowels and consonants in spoken and imagined words using electrocorticographic signals in humans](https://iopscience.iop.org/article/10.1088/1741-2560/8/4/046028/), *Journal of Neural Engineering*, 2011
-- [ ] [Using the electrocorticographic speech network to control a brain–computer interface in humans](https://iopscience.iop.org/article/10.1088/1741-2560/8/3/036004), *Journal of Neural Engineering*, 2011
-- [ ] [Decoding spoken words using local field potentials recorded from the cortical surface](https://iopscience.iop.org/article/10.1088/1741-2560/7/5/056007), *Journal of Neural Engineering*, 2010
-- [ ] [Localization and classification of phonemes using high spatial resolution electrocorticography (ECoG) grids](https://ieeexplore.ieee.org/abstract/document/4650328), *2008 30th Annual International Conference of the IEEE Engineering in Medicine and Biology Society*, 2008
-- [ ] [A survey of signal processing algorithms in brain–computer interfaces based on electrical brain signals](https://iopscience.iop.org/article/10.1088/1741-2560/4/2/R03), *Journal of Neural Engineering*, 2007
-
-<i>Decoding of perceived speech</i>
-- [ ] [Stimulus Speech Decoding from Human Cortex with Generative Adversarial Network Transfer Learning](https://ieeexplore.ieee.org/abstract/document/9098589), *2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI)*, 2020 - **ANNs**
-- [ ] [Towards reconstructing intelligible speech from the human auditory cortex](https://www.nature.com/articles/s41598-018-37359-z), *Scientific Reports*, 2019 - **ANNs**
-- [ ] [Reconstructing Speech Stimuli From Human Auditory Cortex Activity Using a WaveNet Approach](https://ieeexplore.ieee.org/document/8615605), *2018 IEEE Signal Processing in Medicine and Biology Symposium (SPMB)*, 2018 - **ANNs**
-- [ ] [Real-time classification of auditory sentences using evoked cortical activity in humans](https://iopscience.iop.org/article/10.1088/1741-2552/aaab6f), *Journal of Neural Engineering*, 2018
-- [ ] [Word pair classification during imagined speech using direct brain recordings](https://www.nature.com/articles/srep25803), *Scientific Reports*, 2016
-- [ ] [Neural speech recognition: continuous phoneme decoding using spatiotemporal representations of human cortical activity](https://iopscience.iop.org/article/10.1088/1741-2560/13/5/056004), *Journal of Neural Engineering*, 2016
-- [ ] [Reconstructing speech from human auditory cortex](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001251), *PLOS Biology*, 2012
-
-<i>Other</i>
-- [ ] [High-performance brain-to-text communication via imagined handwriting](https://www.biorxiv.org/content/10.1101/2020.07.01.183384v1), *bioRxive*, 2020 - **ANNs**
-- [ ] [Sequence transfer learning for neural decoding](https://www.biorxiv.org/content/biorxiv/early/2017/12/23/210732.full.pdf), *bioRxiv*, 2017 - **ANNs**
-
-
+      
 ## Deep learning
 
 This section is difficult to keep up to date with, only the most influential or personally relevant papers are mentioned.
